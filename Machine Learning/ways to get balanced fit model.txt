@@ -1,0 +1,4 @@
+cross validation
+regularization
+dimensionality reduction
+ensemble techiques
